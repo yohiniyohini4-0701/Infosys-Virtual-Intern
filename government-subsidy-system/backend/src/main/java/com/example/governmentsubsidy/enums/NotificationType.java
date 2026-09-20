@@ -1,0 +1,12 @@
+package com.example.governmentsubsidy.enums;
+
+public enum NotificationType {
+    APPLICATION_STATUS_UPDATE,
+    ELIGIBILITY_EVALUATION,
+    VERIFICATION_UPDATE,
+    DISBURSEMENT_RELEASED,
+    MILESTONE_DUE,
+    OVERDUE_ALERT,
+    UTILIZATION_VERIFIED,
+    SYSTEM_NOTICE
+}

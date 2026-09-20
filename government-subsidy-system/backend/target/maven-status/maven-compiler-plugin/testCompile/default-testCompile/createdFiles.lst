@@ -1,0 +1,9 @@
+com\example\governmentsubsidy\FundUtilizationTest.class
+com\example\governmentsubsidy\WorkflowStateTransitionTest.class
+com\example\governmentsubsidy\GovernmentSubsidyApplicationTests.class
+com\example\governmentsubsidy\NotificationServiceTest.class
+com\example\governmentsubsidy\BulkEligibilityEvaluationServiceTest.class
+com\example\governmentsubsidy\DisbursementAndComplianceTest.class
+com\example\governmentsubsidy\AuthServiceTest.class
+com\example\governmentsubsidy\EligibilityServiceTest.class
+com\example\governmentsubsidy\SmartAssistantAndRecommendationTest.class
